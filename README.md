@@ -1,5 +1,5 @@
                               
-![Header](https://github.com/AnKoroleva/AnKoroleva/blob/main/assets/фото%20для%20профиля%202%20(3).png=250x250)
+![Header](https://github.com/AnKoroleva/AnKoroleva/blob/main/assets/фото%20для%20профиля%202%20(3).png)
 
 ## Hi there! I'am Anastasia 
 ## About me  
