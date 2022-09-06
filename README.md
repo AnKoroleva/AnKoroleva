@@ -1,10 +1,8 @@
-## Hi there! I'am Anastasia
+                              
+![](https://github.com/AnKoroleva/AnKoroleva/blob/main/assets/фото%20для%20профиля%202%20(3).png=250x250)
 
-About me                                     
-
- <p align="right">
-  <img src="https://github.com/AnKoroleva/AnKoroleva/blob/main/assets/фото%20для%20профиля%202%20(3).png" />
-</p>
+## Hi there! I'am Anastasia 
+## About me  
 
 ## Languages and tools
 
