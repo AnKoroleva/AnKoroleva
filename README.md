@@ -14,9 +14,10 @@ About me                                       Header
 ![Redash](https://img.shields.io/badge/Redash-6275C1?style=for-the-badge&logo=Redash&logoColor=F15233)
 ![Apache Airflow](https://img.shields.io/badge/ApacheAirflow-6275C1?style=for-the-badge&logo=ApacheAirflow&logoColor=00AD45)
 
-Follow me  
-
-
+## Follow me 
+[![Telegram](https://img.shields.io/badge/Telegram-6275C1?style=for-the-badge&logo=Telegram&logoColor=00AD45)](https://t.me/korolyusha)
+[![VK](https://img.shields.io/badge/VK-6275C1?style=for-the-badge&logo=VK&logoColor=0161A2)](https://vk.com/id81285740) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6275C1?style=for-the-badge&logo=LinkedIn&logoColor=0191CA)](https://www.linkedin.com/mwlite/in/anastasia-koroleva-62a9b0249) 
 
 
 
