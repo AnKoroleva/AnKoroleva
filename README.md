@@ -1,7 +1,33 @@
                               
-![Header](https://github.com/AnKoroleva/AnKoroleva/blob/main/assets/фото%20для%20профиля%202%20(3)%20(1).png)
+<html>
+<head>
+<title>Вывод изображения на HTML страницу </title>
+</head>
+<body>
+<img src="https://github.com/AnKoroleva/AnKoroleva/blob/main/assets/фото%20для%20профиля%202%20(3)%20(1).png" align="right" width="329" 
+height="309" style=" border: 8px solid #ffffff;"/>
+</p>
+</body>
+</html>
+
+
 ## Hi there! I'am Anastasia 
-## About me  
+## About me
+I'am Junior Data Analyst.
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ## Languages and tools
 
