@@ -6,7 +6,9 @@ height="309" style=" border: 8px solid #ffffff;"/>
 </html>
 
 
-## Hi there! I'am Anastasia 
+## Hi there! :wave:
+
+I'am Anastasia 
 ## About me
 I'am Junior Data Analyst.
 <br />
