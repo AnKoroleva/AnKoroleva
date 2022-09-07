@@ -9,24 +9,20 @@ height="309" style=" border: 8px solid #ffffff;"/>
 ## Hi there! :wave:
 <br />
 
-### I'am Anastasia, a Juniour Data Analyst. 
+I'am Anastasia, a Juniour Data Analyst. 
 <br/>
 
-## About me in 30 Secs
-<br/>
+### About me in 30 Secs
+<br>
 
 - ex-Product Certification Specialist 
-<br/>
 
 - I've been interested in data analytics since May 2022. Now I continue to develop in this direction.
-<br/>
 
 - I love working with numbers and learning new skills.
 <br>
-
-
-
-## Languages and tools
+<br>
+### Languages and tools
 
 ![Python](https://img.shields.io/badge/Python-6275C1?style=for-the-badge&logo=python&logoColor=FFD444)
 ![SQL](https://img.shields.io/badge/SQL-6275C1?style=for-the-badge&logo=clickhouse&logoColor=FBCD02)
@@ -38,7 +34,7 @@ height="309" style=" border: 8px solid #ffffff;"/>
 ![Redash](https://img.shields.io/badge/Redash-6275C1?style=for-the-badge&logo=Redash&logoColor=F15233)
 ![Apache Airflow](https://img.shields.io/badge/ApacheAirflow-6275C1?style=for-the-badge&logo=ApacheAirflow&logoColor=00AD45)
 
-## Follow me 
+### Follow me 
 [![Telegram](https://img.shields.io/badge/Telegram-6275C1?style=for-the-badge&logo=Telegram&logoColor=00AD45)](https://t.me/korolyusha)
 [![VK](https://img.shields.io/badge/VK-6275C1?style=for-the-badge&logo=VK&logoColor=0161A2)](https://vk.com/id81285740) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6275C1?style=for-the-badge&logo=LinkedIn&logoColor=0191CA)](https://www.linkedin.com/mwlite/in/anastasia-koroleva-62a9b0249) 
