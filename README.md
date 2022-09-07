@@ -9,17 +9,17 @@ height="309" style=" border: 8px solid #ffffff;"/>
 ## Hi there! :wave:
 <br />
 
-I'am Anastasia, a Juniour Data Analyst. 
+*I'am Anastasia, a Juniour Data Analyst.* 
+<br/>
 <br/>
 
 ### About me in 30 Secs
 
-- ex-Product Certification Specialist 
+- *ex-Product Certification Specialist* 
 
-- I've been interested in data analytics since May 2022. Now I continue to develop in this direction.
+- *I've been interested in data analytics since May 2022. Now I continue to* develop in this direction.
 
-- I love working with numbers and learning new skills.
-<br>
+- *I love working with numbers and learning new skills.*
 
 ### Languages and tools
 
