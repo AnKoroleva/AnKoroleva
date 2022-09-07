@@ -7,20 +7,23 @@ height="309" style=" border: 8px solid #ffffff;"/>
 
 
 ## Hi there! :wave:
+<br />
 
-I'am Anastasia 
-## About me
-I'am Junior Data Analyst.
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+### I'am Anastasia, a Juniour Data Analyst. 
+<br/>
+
+## About me in 30 Secs
+<br/>
+
+- ex-Product Certification Specialist 
+<br/>
+
+- I've been interested in data analytics since May 2022. Now I continue to develop in this direction.
+<br/>
+
+- I love working with numbers and learning new skills.
+<br>
+
 
 
 ## Languages and tools
