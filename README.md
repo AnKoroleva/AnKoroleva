@@ -13,7 +13,6 @@ I'am Anastasia, a Juniour Data Analyst.
 <br/>
 
 ### About me in 30 Secs
-<br>
 
 - ex-Product Certification Specialist 
 
@@ -21,7 +20,7 @@ I'am Anastasia, a Juniour Data Analyst.
 
 - I love working with numbers and learning new skills.
 <br>
-<br>
+
 ### Languages and tools
 
 ![Python](https://img.shields.io/badge/Python-6275C1?style=for-the-badge&logo=python&logoColor=FFD444)
