@@ -18,7 +18,7 @@ height="309" style=" border: 8px solid #ffffff;"/>
 
 - *I've been interested in data analytics since May 2022. Now I continue to* develop in this direction.
 
-- *I love working with numbers and learning new skills.*
+- *I love working with data and learning new skills.*
 
 ### Languages and tools
 
