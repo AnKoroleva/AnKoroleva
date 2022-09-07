@@ -11,7 +11,6 @@ height="309" style=" border: 8px solid #ffffff;"/>
 
 *I'am Anastasia, a Juniour Data Analyst.* 
 <br/>
-<br/>
 
 ### About me in 30 Secs
 
